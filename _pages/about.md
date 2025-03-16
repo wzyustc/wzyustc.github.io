@@ -52,9 +52,9 @@ My research interest includes Multimodal Large Language Models and Image/Video G
 - *2022.06 - now*, Undergraduate, [USTC](https://www.ustc.edu.cn/), China. 
 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.09 - 2024.11*, Research Intern in [Westlake University](https://westlake.edu.cn/), under the supervision of Prof. [Guojun Qi](https://www.westlake.edu.cn/faculty/guojun-qi.html)
