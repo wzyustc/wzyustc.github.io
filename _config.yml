@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
+title                    : "Wu Zeyu"
 description              : "Undergraduate student majoring in AI and Data Science at USTC (University of Science & Technology of China)."
 repository               : "wzyustc/wzyustc.github.io"
 google_scholar_stats_use_cdn : true
